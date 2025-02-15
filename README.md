@@ -19,7 +19,7 @@ Here, you'll discover projects related to:
 - **Automation tools** to optimize workflows.
 
 ## Let's Connect! 🌍
-[![LinkedIn](https://www.linkedin.com/in/vitalii-tomenko-779298302/) 
-[![GitHub](https://github.com/VITALIKXXX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vitalii-tomenko-779298302/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/VITALIKXXX)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas! Thanks for visiting, and have a great day! 🚀
