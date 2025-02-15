@@ -5,6 +5,12 @@ Hello! Welcome to my GitHub profile. I'm **Vitalii Tomenko**, a passionate devel
 
 I've completed a **JavaScript programming course** and continue to sharpen my skills through hands-on projects. My goal is to shift to an **office-based role** in my current veterinary company while exploring ways to **increase company revenue through marketing strategies**.
 
+## Tech Stack 🛠️
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, React Router, Redux-Saga
+- ⚙️ **Backend:** Node.js  
+- 🛠️ **Tools:** Git, GitHub, VS Code, Responsive Web Design, 
+- 🌐 **Other:** Working with API (fetch, axios), Promises, Async/Await, Scrum, Trello
+
 ## My Journey 🚀
 - 🏡 Living in **Poland** for over 10 years with my **wife and two children**.
 - 🎓 Completed a **JavaScript course** and actively learning web development.
