@@ -12,8 +12,8 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 - 🌐 **Other:** Working with API (fetch, axios), Promises, Async/Await, Scrum, Trello
 
   ## Current Projects 🚀
-🔹 **[Chatbot-App](https://vitalikxxx.github.io/chat-simulation/)**
-🔹 **[open-weather-map](https://vitalikxxx.github.io/open-weather-map/)**
+🔹 **[Chatbot-App](https://github.com/VITALIKXXX/chat-simulation)**
+🔹 **[open-weather-map](https://github.com/VITALIKXXX/open-weather-map)**
 
 ## My Journey 🚀
 - 🏡 Living in **Poland** for over 10 years with my **wife and two children**.
