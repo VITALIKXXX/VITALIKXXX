@@ -29,8 +29,9 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 ![Trello](https://img.shields.io/badge/Other-Trello-informational?style=flat&logo=trello&logoColor=white&color=0079BF)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=VITALIKXXX&theme=radical)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=VITALIKXXX&theme=radical)
+ 
 
   ## Current Projects 🚀
 🔹 **[Chatbot-App](https://github.com/VITALIKXXX/chat-simulation)**
