@@ -52,5 +52,6 @@ Here, you'll discover projects related to:
 ## Let's Connect! 🌍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vitalii-tomenko-779298302/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/VITALIKXXX)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](vitalikxxx985@gmail.com)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas! Thanks for visiting, and have a great day! 🚀
