@@ -13,9 +13,6 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 ![React Router](https://img.shields.io/badge/Code-React%20Router-informational?style=flat&logo=react-router&logoColor=white&color=CA4245)
 ![Redux-Saga](https://img.shields.io/badge/Code-Redux%20Saga-informational?style=flat&logo=redux-saga&logoColor=white&color=999999)
 
-### ⚙️ Backend:
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-
 ### 🛠️ Tools:
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
