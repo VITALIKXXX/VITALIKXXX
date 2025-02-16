@@ -31,10 +31,6 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=dark)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=radical)
 
-## 📊 GitHub Stats  
-![Vitalik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=light)
-
-
   ## Current Projects 🚀
 🔹 **[Chatbot-App](https://github.com/VITALIKXXX/chat-simulation)**
 🔹 **[open-weather-map](https://github.com/VITALIKXXX/open-weather-map)**
