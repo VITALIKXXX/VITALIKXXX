@@ -11,7 +11,8 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 - 🛠️ **Tools:** Git, GitHub, VS Code, Responsive Web Design, 
 - 🌐 **Other:** Working with API (fetch, axios), Promises, Async/Await, Scrum, Trello
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=light)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=light)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=radical)
+
 
 
 
