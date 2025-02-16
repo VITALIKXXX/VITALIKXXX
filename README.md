@@ -11,7 +11,8 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 - 🛠️ **Tools:** Git, GitHub, VS Code, Responsive Web Design, 
 - 🌐 **Other:** Working with API (fetch, axios), Promises, Async/Await, Scrum, Trello
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/VITALIKXXX&layout=compact&theme=light)
+
 
 
   ## Current Projects 🚀
