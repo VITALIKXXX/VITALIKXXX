@@ -1,10 +1,8 @@
 # Hello and Welcome! 👋
 
 ## About Me
-Hello! Welcome to my GitHub profile. I'm **Vitalii Tomenko**, a passionate developer transitioning into the world of **JavaScript development**. With a background in **veterinary technology** and experience in **fieldwork on poultry farms**, I'm now focusing on building a future in **software development** and **marketing**.
-
-I've completed a **JavaScript programming course** and continue to sharpen my skills through hands-on projects. My goal is to shift to an **office-based role** in my current veterinary company while exploring ways to **increase company revenue through marketing strategies**.
-
+Hello! Welcome to my GitHub profile. I'm **Vitalii Tomenko**, a passionate developer transitioning into the world of **JavaScript development**.I'm now focusing on building a future in **software development**.
+I've completed a **JavaScript programming course** and continue to sharpen my skills through hands-on projects.
 ## 🔧 Technologies & Tools
 
 ### 💻 Frontend:
