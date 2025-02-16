@@ -28,7 +28,8 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 ![Scrum](https://img.shields.io/badge/Other-Scrum-informational?style=flat&logo=scrumalliance&logoColor=white&color=00979D)
 ![Trello](https://img.shields.io/badge/Other-Trello-informational?style=flat&logo=trello&logoColor=white&color=0079BF)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=light)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALIKXXX&layout=compact&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALIKXXX&show_icons=true&theme=radical)
 
 
 
