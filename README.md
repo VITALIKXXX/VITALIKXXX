@@ -11,6 +11,9 @@ I've completed a **JavaScript programming course** and continue to sharpen my sk
 - 🛠️ **Tools:** Git, GitHub, VS Code, Responsive Web Design, 
 - 🌐 **Other:** Working with API (fetch, axios), Promises, Async/Await, Scrum, Trello
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
   ## Current Projects 🚀
 🔹 **[Chatbot-App](https://github.com/VITALIKXXX/chat-simulation)**
 🔹 **[open-weather-map](https://github.com/VITALIKXXX/open-weather-map)**
